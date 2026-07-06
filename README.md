@@ -44,6 +44,7 @@ Here's an amazing picture of our CAD :)
 
 <img src=./Pictures/cad_face.png width=500>
 # Special thanks
+
 - A special thanks to, of course, everyone who organized this amazing event !
 - Special thanks for the sponsor for making this event possible and giving so much stuff!
 - Special thanks for Prakshab and Nathan for being cool roomates!
