@@ -20,7 +20,7 @@ Here's a demo video for a quick presentation!
 # Zine page
 A shiny poster to show off our baby!
 
-<img src=zine.png width=550>
+<img src=./Pictures/zine.png width=550>
 
 # The way it works
 ## Detecting the fall
