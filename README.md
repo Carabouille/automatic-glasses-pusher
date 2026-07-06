@@ -13,6 +13,9 @@ Our special machine will detect the fall (ahaha get it) of your glasses and push
 In addition to that, you will have a cool ARGB strip on your head to give you indication and to decorate your beautiful head :)  
 It will also send a message to any slack channel you desire to alert your friends that our incredible invention has done his job and helped your in your amazing day!
 
+Here's a demo video for a quick presentation!
+[![Clicl here !](https://img.youtube.com/vi/Zd3teZ0syxg/0.jpg)](https://youtube.com/shorts/Zd3teZ0syxg)
+
 # Zine page
 A shiny poster to show off our baby!
 
