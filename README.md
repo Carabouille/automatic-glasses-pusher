@@ -14,7 +14,8 @@ In addition to that, you will have a cool ARGB strip on your head to give you in
 It will also send a message to any slack channel you desire to alert your friends that our incredible invention has done his job and helped your in your amazing day!
 
 Here's a demo video for a quick presentation!
-[![Clicl here !](https://img.youtube.com/vi/Zd3teZ0syxg/0.jpg)](https://youtube.com/shorts/Zd3teZ0syxg)
+[LINK](https://streamable.com/7gzfo9)
+
 
 # Zine page
 A shiny poster to show off our baby!
