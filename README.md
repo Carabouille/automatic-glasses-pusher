@@ -26,9 +26,14 @@ When starting, the Seeed Xiao esp32-c3 will connect to an hotspot (LED will indi
 Everything is alimented by an external power bank that you can fit in your pockets so it'll last all day!  
 Everything else is connected to the esp32 withtout an pcb cause it would have been overkilled, two 220µF capacitors has been added two the servos because it has a peak of current when starting.  
 Otherwise everything is basic, input_pullup button, ws2812b led strip, HC-SR04 ultrasonic sensor etc... Nothing complicated to wire!
+
+Here's a simplified wiring schematic of the project (without all the powering part):  
+<img src=./Pictures/wiring.png width=500>
 ## CAD
 The most complicated part was to design this kind of headset from so it'll fits all heads. We've been inspired by and headband form for the main body, then added branches kind of like a headset microphone to put it in front of you wihtout taking too much space ! 
 
 Here's an amazing picture of our CAD :)
+
+<img src=./Pictures/cad_face.png width=500>
 
 
