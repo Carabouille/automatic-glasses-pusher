@@ -20,6 +20,9 @@ To detect when you're glasses are too low, we setuped an ultrasonic sensor facin
 If you accidently move the sensor or remove the AGP (Automatic Glasses Pusher) you can just recalibrate by pressing the button more than 5s, the AGP will detect any anomaly and you'll have just to recalibrate :)
 ## Adjusting the glasses
 Two SG90(s) servos are placed underneath your glasses (on both sides), and with it's curved arm  will gently push your glasses right up your noses, it is simple as it gets :)
+
+Take a look at this amazing animation for better understanding!  
+<img src=./Pictures/servos.gif width=400>
 ## Sending the slack message
 When starting, the Seeed Xiao esp32-c3 will connect to an hotspot (LED will indicate when it's done) and thanks to an incoming webhook from slack, a bot will be able to send any message to any channel he's been allowed to ! 
 ## Electrically speaking
