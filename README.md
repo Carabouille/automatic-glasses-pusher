@@ -13,6 +13,11 @@ Our special machine will detect the fall (ahaha get it) of your glasses and push
 In addition to that, you will have a cool ARGB strip on your head to give you indication and to decorate your beautiful head :)  
 It will also send a message to any slack channel you desire to alert your friends that our incredible invention has done his job and helped your in your amazing day!
 
+# Zine page
+A shiny poster to show off our baby!
+
+<img src=zine.png width=550>
+
 # The way it works
 ## Detecting the fall
 To detect when you're glasses are too low, we setuped an ultrasonic sensor facing your cheek (that you can adjust by rotating the structure holding the sensor), then you'll have to calibrate the sensor by putting your glasses in both up and down position and then pressing the button on your head so the microcontroller can register the distance associated with both these positions. 
@@ -38,5 +43,17 @@ The most complicated part was to design this kind of headset from so it'll fits 
 Here's an amazing picture of our CAD :)
 
 <img src=./Pictures/cad_face.png width=500>
+# Special thanks
+- A special thanks to, of course, everyone who organized this amazing event !
+- Special thanks for the sponsor for making this event possible and giving so much stuff!
+- Special thanks for Prakshab and Nathan for being cool roomates!
+- Special thanks to the hot glue gun for being hot and sticky
+- Special thanks to soup for being cute and fluffy
+- Special thanks for all the sliding glasses of the world making our project alive
+- Special thanks to "Mauvaise nouvelle" for making my mouse slide
+
+Cya :)
+
+UwU GanG
 
 
