@@ -43,6 +43,7 @@ The most complicated part was to design this kind of headset from so it'll fits 
 Here's an amazing picture of our CAD :)
 
 <img src=./Pictures/cad_face.png width=500>
+
 # Special thanks
 
 - A special thanks to, of course, everyone who organized this amazing event !
